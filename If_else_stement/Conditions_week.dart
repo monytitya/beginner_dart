@@ -6,7 +6,7 @@ void main(List<String> args)
 
   switch(day)
   {case "Monday": print("Today is monday"); break;
-  case "Tuesday": print("Today is tuesday"); break;
+    case "Tuesday": print("Today is tuesday"); break;
   case "Wednesday": print("Today is Wednesday"); break;
   case "Thurday": print("Today is Thurday"); break;
 
